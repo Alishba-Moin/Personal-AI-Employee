@@ -1,0 +1,31 @@
+# Obsidian internal state - ignore most, but keep important configs if needed
+.obsidian/
+!.obsidian/appearance.json      # optional: theme/colors sync karna chahte ho to uncomment
+!.obsidian/core-plugins.json    # optional: core plugins on/off
+!.obsidian/community-plugins.json  # optional: installed plugins list
+
+# Volatile files - always ignore (biggest conflict source)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/graph.json            # optional ignore if graph view personal
+
+# General junk
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+__pycache__/
+*.pyc
+
+# Secrets & future sensitive stuff (very important for hackathon)
+credentials.json
+token.json
+.env
+*.key
+WhatsAppSession/               # future WhatsApp watcher
+/Logs/*                        # if you add logging folder
+
+# Python watcher temp
+Watchers/*.pyc
+Watchers/__pycache__/
