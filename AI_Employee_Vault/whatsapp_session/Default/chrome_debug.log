@@ -1,0 +1,11 @@
+[0305/230705.830:INFO:CONSOLE:181] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yW/r/n-xjHtudgPm.js (181)
+[0305/230725.698:INFO:CONSOLE:77] "ErrorUtils caught an error:
+
+[uim] multiple roots: existing=App new=App (multiple-uim-roots)
+
+Subsequent non-fatal errors won't be logged; see https://fburl.com/debugjs. [object Object]", source: https://static.whatsapp.net/rsrc.php/v4/yi/r/YJFBdfq6vMB.js (77)
+[0305/230745.539:INFO:CONSOLE:183] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v4/yT/r/jIUZBupjkO1.js (183)
+[0306/144826.687:WARNING:net\dns\dns_config_service_win.cc:606] Failed to read DnsConfig.
+[0306/144834.833:WARNING:net\dns\dns_config_service_win.cc:606] Failed to read DnsConfig.
+[0306/144846.463:WARNING:net\dns\dns_config_service_win.cc:606] Failed to read DnsConfig.
+[0306/144908.650:WARNING:net\dns\dns_config_service_win.cc:606] Failed to read DnsConfig.

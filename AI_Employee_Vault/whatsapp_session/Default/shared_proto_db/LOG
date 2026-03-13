@@ -1,0 +1,5 @@
+2026/03/05-23:07:01.043 bc0 Recovering log #12
+2026/03/05-23:07:01.044 bc0 Level-0 table #14: started
+2026/03/05-23:07:01.044 bc0 Level-0 table #14: 0 bytes OK
+2026/03/05-23:07:01.206 bc0 Delete type=0 #12
+2026/03/05-23:07:01.206 bc0 Delete type=3 #10
